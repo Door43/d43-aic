@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aic:home|Door43 (aic)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aic|d43-aic repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aic/archive/master.zip|d43-aic.zip]]
+
+**Recent Changes**
+{{changes>ns = aic}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aic|Ethnologue data]]
+
